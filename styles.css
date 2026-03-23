@@ -1,17 +1,17 @@
 :root {
-    --bg: #ffffff;
-    --text: #000000;
-    --nav-bg:#333333;
-    --nav-text: #ffffff;
-    --card: #f4f4f4;
+    --bg: #ee0808;
+    --text: #1a63e1;
+    --nav-bg:#3bc319;
+    --nav-text: #52bd0b;
+    --card: #e36f08;
 }
 
 body.dark {
-    --bg: #ea8016;
-    --text: #e114d0;
-    --nav-bg: #1745e8;
-    --nav-text: #23e25d;
-    --card: #d31616;
+    --bg: #121212;
+    --text: #ffffff;
+    --nav-bg: #1e1e1e;
+    --nav-text: #ffffff;
+    --card: #2a2a2a;
 }
 
 body {
