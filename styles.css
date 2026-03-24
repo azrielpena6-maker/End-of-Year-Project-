@@ -1,9 +1,9 @@
 :root {
-    --bg: #ee0808;
-    --text: #1a63e1;
-    --nav-bg:#3bc319;
-    --nav-text: #52bd0b;
-    --card: #e36f08;
+    --bg: #8c7fff;
+    --text: #0f0a6e;
+    --nav-bg:#6150fe;
+    --nav-text: #1212ff;
+    --card: #2b069b;
 }
 
 body.dark {
