@@ -100,3 +100,22 @@ button{
     border: 5px solid;
     border-color: rgb(255, 255, 255);
 }
+
+.image-stack {
+  position: absolute;
+  right: 20px;   /* pushes them to the right side */
+  top: 100px;    /* adjust starting height */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.image-stack img {
+  width: 200px;
+  height: auto;
+}
+
+/*  this is the “Jenga style offset” part */
+.image-stack a:nth-child(2) {
+  margin-right: 20px; /* moves middle image to the left */
+}
