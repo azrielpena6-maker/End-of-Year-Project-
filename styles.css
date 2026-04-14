@@ -99,5 +99,6 @@ button{
 .button1{
     border: 5px solid;
     border-color: rgb(255, 255, 255);
+    text: white;
 }
 
